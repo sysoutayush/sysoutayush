@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush
 - 👀 I’m interested in Android devlopment.
-- 🌱 I code in c++ & java also i learning kotlin and flutter.
+- 🌱 I code in c++ & java also  know kotlin and flutter.
 - 💞️ I’m looking to collaborate on moblie appliction devlopment.
 - 📫 How to reach me on
      
