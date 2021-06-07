@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Backend and Android developer</h3>
 
 - 🌱 I’m currently learning **kotlin and flutter**
+  <p><img align="right" src="https://user-images.githubusercontent.com/83113106/120955149-5fa65b80-c76e-11eb-8e15-bfa3876220e4.gif" alt="sysoutayush" width="350" /></p>
+- 👯 I’m looking to collaborate on **Web and mobile development projects**                                         
 
-- 👯 I’m looking to collaborate on **Web and mobile development projects**
-
-- 👨‍💻 All of my projects are available at [https://sysoutayush.github.io/](https://sysoutayush.github.io/)
+- 👨‍💻 All of my projects are available at [https://sysoutayush.github.io/](https://sysoutayush.github.io/)   
 
 - 💬 Ask me about **Java and C++**
 
