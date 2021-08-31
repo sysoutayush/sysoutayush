@@ -17,7 +17,7 @@
 <a href="https://instagram.com/ayush_yadav05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush_yadav05" height="30" width="40" /></a>
  </p>
  
-<h4 align="left">Coding proficiencies:</h4>
+<h3 align="left">Coding proficiencies:</h3>
 <p align="left">
  <a href="https://www.codechef.com/users/sysoutayush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sysoutayush" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ayushyadav_77771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushyadav_77771" height="30" width="40" /></a>
