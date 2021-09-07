@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/yadav-ayush-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ayush-yadav-26353b211" height="30" width="40" /></a>
 <a href="https://instagram.com/ayush_yadav05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush_yadav05" height="30" width="40" /></a>
+ <a href="https://twitter.com/ayushya83575552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushya83575552" height="30" width="40" /></a>
  </p>
  
 <h3 align="left">Coding proficiencies:</h3>
