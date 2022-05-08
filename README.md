@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **kubernetes**
   <p><img align="right" src="https://user-images.githubusercontent.com/83113106/120955149-5fa65b80-c76e-11eb-8e15-bfa3876220e4.gif" alt="sysoutayush" width="335" /></p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sysoutayush?tab=repositories](https://github.com/sysoutayush?tab=repositories)   
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/sysoutayush?tab=repositories)   
 
 - 💬 Ask me about **Java and C++**
 
