@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush yadav</h1>
-<h3 align="center">A passionate Backend and Android developer</h3>
+<h3 align="center">A passionate Developer</h3>
  👯 I’m looking to collaborate on **Web and mobile development projects** 
 
 - 🌱 I’m currently learning **kubernetes**
