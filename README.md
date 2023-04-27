@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush yadav</h1>
-<h3 align="center">A passionate Developer</h3>
+<h3 align="center">A passionate Developer and a keen Learner.</h3>
  👯 I’m looking to collaborate on **Web and mobile development projects** 
 
 - 🌱 I’m currently learning **kubernetes**
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/sysoutayush?tab=repositories)   
 
-- 💬 Ask me about **Java and C++**
+- 💬 Ask me about **Python and C++**
 
 - 📫 How to reach me **ayushyadav.777786@gmail.com**
 
